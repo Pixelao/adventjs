@@ -46,10 +46,7 @@ Las cajas no son siempre cuadradas, pueden ser rectangulares.
 
 function fitsInOneBox(boxes) {
   return boxes
-    .sort(
-      (cajaA, cajaB) =>
-        cajaB.l * cajaB.w * cajaB.h - cajaA.l * cajaA.w * cajaA.h
-    )
+    .sort((cajaA, cajaB) => cajaB.l - cajaA.l)
     .every((cajaActual, i) => {
       if (i === 0) return true;
       const cajaAnterior = boxes[i - 1];
