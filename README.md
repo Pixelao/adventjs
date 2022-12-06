@@ -20,8 +20,8 @@ AdventJS es una iniciativa de [@midudev](https://midu.dev/) que consiste en reso
 | 02  | Nadie quiere hacer horas extra                    | Fácil      | [Ver soluciones](./2022/02.md) |
 | 03  | ¿Cuántas cajas de regalos puede llevar Papá Noel? | Fácil      | [Ver soluciones](./2022/03.md) |
 | 04  | Una caja dentro de otra caja y otra...            | Media      | [Ver soluciones](./2022/04.md) |
-| 05  | Optimizando viajes de Santa                       | Media      | [Ver soluciones](./2022/05.md) |
-| 06  |                                                   | ...        |                                |
+| 05  | Optimizando viajes de Santa                       | Dificil    | [Ver soluciones](./2022/05.md) |
+| 06  | Creando adornos navideños                         | Media      | [Ver soluciones](./2022/06.md) |
 | 07  |                                                   | ...        |                                |
 | 08  |                                                   | ...        |                                |
 | 09  |                                                   | ...        |                                |
