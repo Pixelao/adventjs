@@ -68,3 +68,25 @@ function getMaxGifts(giftsCities, maxGifts, maxCities) {
 
   return totalRegalos;
 }
+
+// Otra solución
+function getMaxGifts(giftsCities, maxGifts, maxCities) {
+  /*
+  1 - Calculamos todas las posibles combinaciones
+  2 - Nos quedamos solo con las que tengan una longitud <= que maxCities
+  3 - Calculamos la suma de regalos de cada combinación
+  4 - Nos quedamos solo con las que sumen <= que maxGifts
+  5 - Devolvemos el resultado que más regalos sume
+  */
+  return Math.max(
+    ...[
+      ...giftsCities.reduce(
+        (x, y) => x.concat(x.map((x) => [y].concat(x))),
+        [[]]
+      ),
+    ]
+      .filter((x) => x.length <= maxCities)
+      .map((x) => x.reduce((a, b) => a + b, 0))
+      .filter((x) => x <= maxGifts)
+  );
+}
