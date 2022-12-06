@@ -16,11 +16,11 @@ AdventJS es una iniciativa de [@midudev](https://midu.dev/) que consiste en reso
 
 | Día | Título                                            | Dificultad | Solución                       |
 | --- | ------------------------------------------------- | ---------- | ------------------------------ |
-| 01  | ¡Automatizando envolver regalos de navidad!       | Fácil      | [Ver soluciónes](./2022/01.md) |
-| 02  | Nadie quiere hacer horas extra                    | Fácil      | [Ver soluciónes](./2022/02.md) |
-| 03  | ¿Cuántas cajas de regalos puede llevar Papá Noel? | Fácil      | [Ver soluciónes](./2022/03.md) |
-| 04  | Una caja dentro de otra caja y otra...            | Media      | [Ver soluciónes](./2022/04.md) |
-| 05  | Optimizando viajes de Santa                       | Media      | [Ver soluciónes](./2022/05.md) |
+| 01  | ¡Automatizando envolver regalos de navidad!       | Fácil      | [Ver soluciones](./2022/01.md) |
+| 02  | Nadie quiere hacer horas extra                    | Fácil      | [Ver soluciones](./2022/02.md) |
+| 03  | ¿Cuántas cajas de regalos puede llevar Papá Noel? | Fácil      | [Ver soluciones](./2022/03.md) |
+| 04  | Una caja dentro de otra caja y otra...            | Media      | [Ver soluciones](./2022/04.md) |
+| 05  | Optimizando viajes de Santa                       | Media      | [Ver soluciones](./2022/05.md) |
 | 06  |                                                   | ...        |                                |
 | 07  |                                                   | ...        |                                |
 | 08  |                                                   | ...        |                                |
