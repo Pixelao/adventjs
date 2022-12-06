@@ -1,10 +1,10 @@
 ## AdventJS Challenges
 
-Este repositorio solamente tiene el objetivo de recopilat mostrar algunas de las posibles soluciones a los retos de [AdventJs.dev](http://adventjs.dev/) **2022** creado por [@midudev](https://midu.dev/)
+Este repositorio, solamente tiene el objetivo de recopilar y mostrar algunas de las posibles soluciones a los retos del [AdventJs.dev](http://adventjs.dev/) **2022** creado por [@midudev](https://midu.dev/)
 
-¿Tienes otra solución? ¿Puedes hacerlo más optimo o eficiente?
+¿Tienes otra solución? ¿Puedes hacerlo más óptimo o eficiente?
 
-¡Crea una PR, y lo añado al listado de soluciones con tu nombre!
+**¡Crea una PR, y lo añadimos al listado de soluciones con tu nombre!**
 
 ![image](https://user-images.githubusercontent.com/8830376/205487378-4a29b0d1-5aeb-4da3-b923-eb31a8d9ce5e.png)
 
