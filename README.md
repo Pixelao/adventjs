@@ -22,7 +22,7 @@ AdventJS es una iniciativa de [@midudev](https://midu.dev/) que consiste en reso
 | 04  | Una caja dentro de otra caja y otra...            | Media      | [Ver soluciones](./2022/04.md) |
 | 05  | Optimizando viajes de Santa                       | Dificil    | [Ver soluciones](./2022/05.md) |
 | 06  | Creando adornos navideños                         | Media      | [Ver soluciones](./2022/06.md) |
-| 07  |                                                   | ...        |                                |
+| 07  | Haciendo inventario de regalos                    | Fácil      | [Ver soluciones](./2022/07.md) |
 | 08  |                                                   | ...        |                                |
 | 09  |                                                   | ...        |                                |
 | 10  |                                                   | ...        |                                |
